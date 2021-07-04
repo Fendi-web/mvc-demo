@@ -1,0 +1,3 @@
+require('./app1.css');
+require('./app2.css');
+require('./reset.css');

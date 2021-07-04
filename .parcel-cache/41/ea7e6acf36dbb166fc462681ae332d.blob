@@ -1,0 +1,6 @@
+body > .page{
+    display:flex;
+}
+body > .page > section{
+    display:flex;
+}

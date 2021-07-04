@@ -1,0 +1,11 @@
+#app1{
+border: 1px solid red;
+}
+app1 .action{
+    width:50vh;
+    height:50vh;
+
+}
+app1 .action{
+
+}

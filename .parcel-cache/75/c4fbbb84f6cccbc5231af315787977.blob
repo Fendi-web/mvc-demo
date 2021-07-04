@@ -1,0 +1,11 @@
+#app2{
+    border: 1px solid blue;
+    width:50vh;
+    height:50vh;
+    }
+#app2 .tab-bar{
+
+}
+#app2 .tab-content{
+    
+}
